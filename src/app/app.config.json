@@ -1,0 +1,13 @@
+{
+  "appname": "Ulrich Buyer",
+  "ocscope": "FullAccess DevCenterImpersonate BuyerAdmin BuyerReader",
+  "clientid": "E7F29FCF-D16E-41CC-AA80-ED89FF78EEB0",
+  "buyerid": "ulrich-buyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
